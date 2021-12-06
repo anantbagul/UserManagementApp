@@ -19,7 +19,5 @@ public class City {
 	@Override
 	public String toString() {
 		return "City [cityID=" + cityID + ", cityName=" + cityName + "]";
-	}
-	
-	
+	}	
 }
